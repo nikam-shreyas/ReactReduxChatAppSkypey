@@ -1,3 +1,8 @@
+<h2>Implementation Screenshots:</h2>
+<img src="https://i.ibb.co/fNF9Wn0/Screenshot-from-2020-05-22-23-07-43.png"/>
+<img src="https://i.ibb.co/BrpWN2N/Screenshot-from-2020-05-22-23-07-58.png"/>
+<img src="https://i.ibb.co/MfXXGyW/Screenshot-from-2020-05-22-23-08-00.png"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -26,8 +31,5 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-<h2>Implementation Screenshot:</h2>
-<img src="https://i.ibb.co/fNF9Wn0/Screenshot-from-2020-05-22-23-07-43.png"/>
-<img src="https://i.ibb.co/MfXXGyW/Screenshot-from-2020-05-22-23-08-00.png"/>
-<img src="https://i.ibb.co/BrpWN2N/Screenshot-from-2020-05-22-23-07-58.png"/>
+
 
